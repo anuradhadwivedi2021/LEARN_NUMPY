@@ -17,4 +17,4 @@ Install NumPy using pip:
 
 ```bash
 pip install numpy# LEARN_NUMPY
-"Practice codes of Python NumPy library with examples and explanations." ✅
+
